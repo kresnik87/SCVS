@@ -1,0 +1,201 @@
+#app-header {
+    color: #232323;
+    font-size: 24px;
+	align:center;
+    font-weight: 250;	
+    padding: 8px 15px;
+    
+}
+
+.username{
+    color:#1bbadc;
+	font-size:16px;
+	font-weight:bold;	
+	box-shadow:0 5 5px 5px;
+    -moz-transition:0.5s;
+}
+.datos{
+    color:#023124;
+	font-size:14px;
+	font-weight:bold;	
+	box-shadow:0 0 0px 0px;   
+}
+.ficha{
+    color:#2999c3;
+	font-size:14px;
+	box-shadow:0 0 0px 0px;   
+}
+.ficha_label{
+    color:#0eb9bb;
+	font-size:14px;
+	box-shadow:0 0 0px 0px;   
+}
+    
+
+.bd {
+    background-image:url(../icons/Blue/MB_0020_light.png);
+}
+.bd-down {
+    background-image:url(../icons/Blue/bd-down.png);
+}
+.update-cost {
+    background-image:url(../icons/Blue/update.jpg);
+}
+.add-prod {
+    background-image:url(../icons/Nuevos/application-add.png);
+}
+.vent-window {
+    background-image:url(../icons/Nuevos/computer-128x128.png);
+}
+.servicio {
+    background-image:url(../icons/Nuevos/servicio.png);
+}
+.client {
+    background-image:url(../icons/fam/user_gray.png);
+}
+.venta {
+    background-image:url(../icons/Nuevos/coins.png);
+}
+.log-ico {
+    background-image:url(../icons/Nuevos/log.png);
+}
+.edit-prod {
+    background-image:url(../icons/Nuevos/application-edit.png);
+}
+.delete-prod {
+    background-image:url(../icons/Nuevos/application-remove.png);
+}
+.add-form {
+    background-image:url(../icons/Nuevos/chip.png);
+}
+.mod-admin {
+    background-image:url(../icons/Nuevos/apps.png);
+}
+.mod-ventas {
+    background-image:url(../icons/Nuevos/iPhone4.png);
+}
+.mod-reportes {
+    background-image:url(../icons/Nuevos/reportes.png);
+}
+.settings {
+    background-image:url(../icons/fam/folder_wrench.png);
+}
+.id {
+    background-image:url(../icons/Nuevos/id.png);
+}
+.icon-nav {
+    background-image:url(../icons/fam/application_view_list.png);
+}
+.nav {
+    background-image:url(../icons/fam/folder_go.png);
+}
+.info {
+    background-image:url(../icons/fam/information.png);
+}
+.detalles {
+    background-image:url(../icons/fam/book.png);
+}
+.tabs {
+    background-image:url(../icons/fam/tabs.gif);
+}
+.transf {
+    background-image:url(../icons/fam/table_refresh.png);
+}
+.logout {
+    background-image:url(../icons/fam/logout.png);
+}
+.user-panel{
+    background-image:url(../icons/fam/user.png);
+}
+.add{
+    background-image:url(../icons/fam/user_add.gif);
+}
+.edit{
+    background-image:url(../icons/fam/user_edit.png);
+}
+.delete{
+    background-image:url(../icons/fam/user_delete.gif);
+}
+.add_user{
+    background-image:url(../icons/fam/add.png);
+}
+.update_user{
+    background-image:url(../icons/fam/accept.png);
+}
+.cancel{
+    background-image:url(../icons/fam/cross.gif);
+}
+.search{
+    background-image:url(../icons/fam/view.png);
+}
+.ajuste{
+    background-image:url(../icons/Nuevos/application-edit.png);
+}
+.search1{
+    background-image:url(../icons/fam/Search1.png);
+}
+.imagen_upload{
+    background-image:url(../icons/fam/image_add.png);
+}
+.clean{
+    background-image:url(../icons/fam/rss_go.png);
+}
+.mostrar{
+    background-image:url(../icons/fam/user_green.gif);
+}
+.grid{
+    background-image:url(../icons/fam/grid.png);
+}
+.expediente{
+    background-image:url(../icons/fam/book.png);
+}
+.grafico{
+    background-image:url(../icons/fam/chart.png);
+}
+.result{
+    background-image:url(../icons/fam/result.png);
+}
+
+.buzon{
+    background-image:url(../icons/fam/buzon.png);
+}
+body
+{
+ 
+  background-color: #0a3a23;  
+ 
+}
+#ficha-body
+{
+  
+  background-image:url(../images/fondo_ficha.png);  
+  
+}
+#ficha-foto
+{
+  
+ padding: 0;
+ background-color:red;
+  
+}
+
+.fondomio{
+background-color:red;
+}
+.logomio{
+
+
+	margin:15px 25px 15px 25px;
+        opacity:30%;
+
+}
+.texto{
+	margin:0 0 0 0;
+	 color:#1bbadc;
+	padding:0 0 0 25px;
+	position:relative;
+	text-align:justify;
+	width:88%;
+	font-family:verdana;
+	font-size:16px;
+}
